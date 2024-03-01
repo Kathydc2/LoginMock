@@ -13,6 +13,8 @@ form{
    
 }
 .EntireContainer{
+    margin-top: 30ch;
+    margin-bottom: 30ch;
     /* border: solid red; */
     display: flex;
     justify-content: space-evenly;
