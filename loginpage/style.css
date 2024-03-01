@@ -1,0 +1,87 @@
+body{
+    /* background-image: url(https://wallpapers.com/images/featured/background-mhdoyguhq3skloxt.jpg); */
+    /* background-size: cover; */
+    font-family:sans-serif; 
+    background: -webkit-linear-gradient(to right, #33084d, #15997c); 
+     background: linear-gradient(to right, #45bbb1cb, #684399b7); 
+    color:whitesmoke;
+}
+form{
+    margin: auto;
+    color:White;
+    backdrop-filter: blur(16px) saturate(180%);
+   
+}
+.EntireContainer{
+    /* border: solid red; */
+    display: flex;
+    justify-content: space-evenly;
+}
+.ImgContainer{
+    /* Border: solid blue; */
+    margin: 0%;
+    height: 45%;
+
+}
+/* .RightContainer{ */
+    /* border: solid black; */
+/* } */
+/* .LeftContainer{ */
+    /* border: solid black */
+/* } */
+img{
+    width: 50%;
+    margin-left: 25%;
+}
+.LoginLogo{
+    width: 9%;
+}
+/* .LoginContainer{ */
+    /* border: solid orange; */
+    /* width:10%; */
+    /* display: flex; */
+    /* justify-content: center;  */
+/* } */
+h1{
+    font-size: small;
+    text-align: center;
+}
+/* .SignupContainer{ */
+    /* border: solid orange; */
+    /* width:10%; */
+    /* display: flex; */
+    /* justify-content: center; */
+/* } */
+h2{
+    font-size: small;
+    text-align: center;
+}
+.BarContainer{
+    /* Border: solid green; */
+    display: flex;
+    justify-content: center;
+   
+}
+.ButtonContainer{
+    display: flex;
+    justify-content: center;
+}
+button{
+    Margin: 30px;
+    border: transparent;
+    background-color: transparent;
+    color: white;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+button:hover{
+    Margin: 30px;
+    background-color: lightseagreen;
+    cursor:pointer;
+    color: black;
+    font-weight: bold;
+    font-family: sans-serif;
+}
+p{
+    font-size: 80%;
+}
